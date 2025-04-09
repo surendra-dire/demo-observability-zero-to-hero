@@ -41,7 +41,7 @@
 | Data           | Collects metrics like CPU usage, memory usage, and error rates | Collects logs, metrics, and traces to provide a full picture |
 | Alerts         | Sends notifications when something goes wrong| Correlates events and anomalies to identify root causes |
 | Example        | If a server's CPU usage goes above 90%, monitoring will alert us | If a website is slow, observability helps us trace the user's request through different services to find the bottleneck |
-| Insight        | Identifies potential issues before they become critical | Helps diagnose issues and understand system behavior |
+| Insight        | Prometheus, Grafana, Nagios, and Zabbix  | Prometheus, Grafana, Jaeger, Zipkin, and Elasticsearch |
 
 
 ## 🔭 Does Observability Cover Monitoring?
